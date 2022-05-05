@@ -1,2 +1,2 @@
 # SPECTMPISeg
-SPECT for LV segmentation
+Left-ventricular segmentation in SPECT MPI
